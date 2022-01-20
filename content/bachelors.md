@@ -2,7 +2,7 @@
 title: "Bachelors Project"
 date: 2018-08-10T10:53:05-05:00
 menu: "main"
-draft: false
+draft: true
 type: "static"
 weight: 2
 meta: "For my Bachelor’s project, I investigated the Cytokine production of B cells, especially of CD21low B cells, in a subgroup of patients with common variable immune deficiency (CVID)."

@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 <main>
 {{ .Content }}
   {{ range .Pages }}
@@ -12,5 +12,4 @@
 	</article>
   {{ end }}
 </main>
-
-{{ partial "footer.html" . }}
+{{ end }}

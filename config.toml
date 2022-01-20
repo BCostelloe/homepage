@@ -8,3 +8,6 @@ theme = "blair"
 
 # [blackfriday]
 #   hrefTargetBlank = true
+
+ [markup.goldmark.renderer]
+ 		unsafe= true
