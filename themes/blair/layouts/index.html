@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+<main>
+    {{ range (where .Data.Pages "Section" "sections") }}
+  	<article>
+    {{/* <li>
+      <span class="date">{{ .Date.Format "2006/01/02" }}</span>
+      <a href="{{ .URL }}">{{ .Title }}</a>
+    </li> */}}
+  	<div class="title-box"><h2>{{ .Title }}</h2></div>
+  	<div class="content-box">{{ .Content }}</div>
+  	</article>
+    {{ end }}
+</main>
+{{ partial "footer.html" . }}

@@ -1,0 +1,10 @@
+baseURL = "https://blaircostelloe.com/"
+languageCode = "en-us"
+title = "BlairCostelloe.com"
+theme = "blair"
+
+[params]
+		footer = "&copy; 2022 Blair Costelloe | All rights reserved | Built by [Costelloe Creative](https://costelloecreative.com) with [Hugo](https://gohugo.io/) and hosted on [Netlify](https://www.netlify.com/)"
+
+# [blackfriday]
+#   hrefTargetBlank = true
