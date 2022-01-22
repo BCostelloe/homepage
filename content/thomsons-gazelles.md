@@ -59,6 +59,8 @@ Both of our predictions were confirmed, suggesting that mothers can effectively 
 
 **Roberts, B.A.** 2014\. [The trials of motherhood: maternal behavior patterns and antipredator tactics in Thomson’s gazelle (Eudorcas thomsonii), a hiding ungulate](http://dataspace.princeton.edu/jspui/handle/88435/dsp010v838070q). PhD thesis, Princeton University. [PDF](http://www.blaircostelloe.com/dissertationsingle/)
 
+## Behavioral changes during the transition out of the hiding phase
+
 In this study, I compared the behavior of young fawns (less than one month old) and their mothers to that of older fawns (one to two months old) and their mothers. While young fawns are fully engaged in the hiding strategy, older fawns are in the midst of a transition out of hiding. They spend less time hidden and emerge from hiding more frequently, often without waiting for their mothers to retrieve them. These behavioral changes on the part of the infant are expected to affect the behavior of the mother.
 Young fawn in hiding
 Young fawn in hiding

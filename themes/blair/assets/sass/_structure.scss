@@ -1,13 +1,17 @@
 header {
-	width: 100%;
-	padding: 7rem 0 3rem;
-	text-align: center;
+	display: block;
+	max-width: 900px;
+	margin: 3rem auto;
+	// width: 100%;
+	padding: 7rem 3rem 3rem;
+	//text-align: center;
 }
 
 main {
 	display: block;
 	max-width: 900px;
 	margin: 3rem auto;
+	padding: 0 3rem;
 }
 
 article {
@@ -64,19 +68,13 @@ figcaption {
 }
 
 .headshot {
-	margin-top: -.5rem;
-	width: 200px;
-	img {
-		width: 100%;
+			float: left;
+			max-width: 400px;
+			margin: 0 2rem 2rem 0;
+			img {
+				width: 100%;
+			}
 	}
-}
-
-.boatshot {
-	width: 300px;
-	img {
-		width: 100%;
-	}
-}
 
 @media screen and (max-width: 500px) {
 	.alignleft {
@@ -85,18 +83,19 @@ figcaption {
 		margin: 0 auto;
 		float: none;
 	}
-	.headshot {
-		margin-top: 0rem;
-		width: 100%;
-	}
-	.boatshot {
-		width: 100%;
+.headshot {
+			float: none;
+			max-width: 100%;
+			margin: 2rem 0;
+			img {
+				width: 100%;
+			}
 	}
 }
 
 @media screen and (max-width: 900px) {
 	main {
-		max-width: 90%;
+		max-width: 100%;
 		margin: 1rem auto;
 	}
 	article {
