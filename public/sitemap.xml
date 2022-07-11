@@ -2,23 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blaircostelloe.com/masters/</loc>
-    <lastmod>2018-08-10T10:53:28-05:00</lastmod>
-  </url><url>
     <loc>https://blaircostelloe.com/sections/about/</loc>
     <lastmod>2018-08-05T18:59:41+00:00</lastmod>
   </url><url>
     <loc>https://blaircostelloe.com/sections/interests/</loc>
     <lastmod>2018-08-30T12:03:29+02:00</lastmod>
   </url><url>
-    <loc>https://blaircostelloe.com/bachelors/</loc>
-    <lastmod>2018-08-10T10:53:05-05:00</lastmod>
-  </url><url>
     <loc>https://blaircostelloe.com/sections/skills/</loc>
     <lastmod>2018-08-10T10:53:38-05:00</lastmod>
   </url><url>
+    <loc>https://blaircostelloe.com/about/</loc>
+    <lastmod>2022-01-20T09:28:09+01:00</lastmod>
+  </url><url>
+    <loc>https://blaircostelloe.com/research/</loc>
+    <lastmod>2022-01-20T09:28:21+01:00</lastmod>
+  </url><url>
+    <loc>https://blaircostelloe.com/resources/</loc>
+    <lastmod>2022-01-20T09:28:34+01:00</lastmod>
+  </url><url>
+    <loc>https://blaircostelloe.com/publications/</loc>
+    <lastmod>2022-01-20T09:45:42+01:00</lastmod>
+  </url><url>
     <loc>https://blaircostelloe.com/contact/</loc>
     <lastmod>2018-09-12T17:45:26+02:00</lastmod>
+  </url><url>
+    <loc>https://blaircostelloe.com/thomsons-gazelles/</loc>
+    <lastmod>2022-01-20T10:06:22+01:00</lastmod>
   </url><url>
     <loc>https://blaircostelloe.com/sections/</loc>
     <lastmod>2018-08-30T12:03:29+02:00</lastmod>

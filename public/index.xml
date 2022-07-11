@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Aug 2018 10:33:41 -0500</lastBuildDate><atom:link href="https://blaircostelloe.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Masters Project</title>
-      <link>https://blaircostelloe.com/masters/</link>
-      <pubDate>Fri, 10 Aug 2018 10:53:28 -0500</pubDate>
-      
-      <guid>https://blaircostelloe.com/masters/</guid>
-      <description>The effect of relatedness on group and community structure in Tanganyikan cichlids For my Master’s thesis I investigated how the genetic relatedness of individuals influences group interactions and community structure in a social cichlid species. I looked at group living and nest building behaviours in Neolamprologus multifasciatus, the smallest cichlid species in the world, and endemic to Lake Tanganyika in Zambia. N. multifasciatus live in small groups in close proximity to each other, usually separated by sand ridges.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://blaircostelloe.com/sections/about/</link>
       <pubDate>Sun, 05 Aug 2018 18:59:41 +0000</pubDate>
@@ -36,25 +27,56 @@ During my Master’s studies, I became interested in linking the broader ecologi
     </item>
     
     <item>
-      <title>Bachelors Project</title>
-      <link>https://blaircostelloe.com/bachelors/</link>
-      <pubDate>Fri, 10 Aug 2018 10:53:05 -0500</pubDate>
-      
-      <guid>https://blaircostelloe.com/bachelors/</guid>
-      <description>Cytokine production of B cells in patients with variable immune deficiency  B cell subpopulations of a healthy donor (left) and a CVID patient showing CD21low B cells (right)
-  For my Bachelor’s project, I investigated the Cytokine production of B cells, especially of CD21low B cells, in a subgroup of patients with common variable immune deficiency (CVID). CVID is the most common primary immune deficiency in adults, and is characterised by recurrent infections, low antibody levels in at least two immunoglobulin types, and immune dysregulation.</description>
-    </item>
-    
-    <item>
       <title>Skills</title>
       <link>https://blaircostelloe.com/sections/skills/</link>
       <pubDate>Fri, 10 Aug 2018 10:53:38 -0500</pubDate>
       
       <guid>https://blaircostelloe.com/sections/skills/</guid>
-      <description>  Cell culture, microscopy, immunostaining, FACS, B cell isolation, cell viability assays, PCR/qPCR, ELISA, SDS Page, Western Blot, Primer design, DNA/RNA isolation and microsatellite analysis, genetic and behavioural data collection in the field
-  Microsoft Word, Excel, PowerPoint, Photoshop; Basics in GraphPad Prism, Matlab, Processing, Python, OpenCV, Java, and R
-  Project planning and management, data collection, experimental design
-  </description>
+      <description>Cell culture, microscopy, immunostaining, FACS, B cell isolation, cell viability assays, PCR/qPCR, ELISA, SDS Page, Western Blot, Primer design, DNA/RNA isolation and microsatellite analysis, genetic and behavioural data collection in the field
+Microsoft Word, Excel, PowerPoint, Photoshop; Basics in GraphPad Prism, Matlab, Processing, Python, OpenCV, Java, and R
+Project planning and management, data collection, experimental design</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blaircostelloe.com/about/</link>
+      <pubDate>Thu, 20 Jan 2022 09:28:09 +0100</pubDate>
+      
+      <guid>https://blaircostelloe.com/about/</guid>
+      <description>I am a wildlife biologist interested in the natural history, behavioral ecology, and conservation of free-ranging animals. I earned my Ph.D. from Princeton University’s Department of Ecology and Evolutionary Biology in 2014. There I studied the maternal and antipredator behavior of Thomson’s gazelle, a small East African antelope. For that project I spent many months working at the beautiful Ol Pejeta Conservancy in Laikipia, Kenya. I adore field biology and enjoy the challenges of designing and executing projects in unpredictable environments.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://blaircostelloe.com/research/</link>
+      <pubDate>Thu, 20 Jan 2022 09:28:21 +0100</pubDate>
+      
+      <guid>https://blaircostelloe.com/research/</guid>
+      <description>Below are links to descriptions of past and current research projects.
+Feel free to check out my CV and publications. You can also find me on ResearchGate and Google Scholar.
+Research projects: Herd Hover: Collective detection in savannah ungulates
+Thomson&amp;rsquo;s Gazelles</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://blaircostelloe.com/resources/</link>
+      <pubDate>Thu, 20 Jan 2022 09:28:34 +0100</pubDate>
+      
+      <guid>https://blaircostelloe.com/resources/</guid>
+      <description>Herd Hover project website – Drones! Collective behavior! Max Planck Institute of Animal Behavior Centre for the Advanced Study of Collective Behaviour Department of Collective Behavior University of Konstanz Ol Pejeta Conservancy* Mpala Research Center Support
+European Commission Marie Sklodowska-Curie Actions NVIDIA Animal Behavior Society Former Affiliations
+Princeton University Department of Ecology and Evolutionary Biology Rubenstein Lab Saint Louis Zoo San Diego Zoo Institute for Conservation Research Washington University in St.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://blaircostelloe.com/publications/</link>
+      <pubDate>Thu, 20 Jan 2022 09:45:42 +0100</pubDate>
+      
+      <guid>https://blaircostelloe.com/publications/</guid>
+      <description>Tuia, D.*, Kellenberger, B.*, Beery, S.*, Costelloe, B.R.*, Zuffi, S., Risse, B., Mathis, A., Mathis, M., Van Langevelde F., Burghardt, T., Kays, R., Klinck, H., Wikelski, M., Couzin, I.D., van Horn, G., Crofoot, M., Stewart, C. and Berger-Wolf, T. Seeing biodiversity: perspectives in machine learning for wildlife conservation. Accepted at Nature Communications. Preprint available.
+Graving, J.M., Chae, D., Naik, H., Li, L., Koger, B., Costelloe, B.R. and Couzin, I.D. 2019. DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning.</description>
     </item>
     
     <item>
@@ -63,8 +85,16 @@ During my Master’s studies, I became interested in linking the broader ecologi
       <pubDate>Wed, 12 Sep 2018 17:45:26 +0200</pubDate>
       
       <guid>https://blaircostelloe.com/contact/</guid>
-      <description>Get in touch phone: +49 170 3184888
-email: wickert.melanie@googlemail.com</description>
+      <description>email: blair.costelloe@ab.mpg.de</description>
+    </item>
+    
+    <item>
+      <title>Thomson&#39;s Gazelles</title>
+      <link>https://blaircostelloe.com/thomsons-gazelles/</link>
+      <pubDate>Thu, 20 Jan 2022 10:06:22 +0100</pubDate>
+      
+      <guid>https://blaircostelloe.com/thomsons-gazelles/</guid>
+      <description>Maternal and antipredator behavior of Thomson’s gazelles Parents with dependent offspring face interesting challenges in optimizing their behavior to maximize their reproductive success. They must meet all the same requirements as non-parents – getting enough to eat, avoiding predation – while also protecting and providing for one or more vulnerable, needy offspring. Thomson’s gazelles are a great system in which to study maternal decision-making, behavior, and trade-offs for several reasons: Cheetahs feeding on an adult male Thomson&amp;rsquo;s gazelle Cheetahs feeding on an adult male Thomson’s gazelle</description>
     </item>
     
   </channel>
